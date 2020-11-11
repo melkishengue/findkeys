@@ -1,5 +1,7 @@
 # findkeys
 
+[![Build Status](https://travis-ci.org/melkishengue/npm-module-boilerplate.svg?branch=master)](https://travis-ci.org/melkishengue/findkeys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 **A simple and blazing fast object keys locator** ✨
 
 Sometimes it happens that we have a very big object with a lot of keys, like a response to a _http request_ for example. Findkeys is a small utility module, able to search such an object and return paths to keys of interest. Supports all javascript types. ES5 and ES6 compatible.
