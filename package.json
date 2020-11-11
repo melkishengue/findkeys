@@ -1,7 +1,7 @@
 {
   "name": "findkeys",
   "version": "1.0.0",
-  "description": "simple and blazing fast object keys locator",
+  "description": "Simple and blazing fast object keys locator.",
   "main": "./lib/index.js",
   "scripts": {
     "clean": "rimraf lib",
@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexdinesh/npm-module-boilerplate.git"
+    "url": "git+https://github.com/melkishengue/findkeys.git"
   },
   "keywords": [
     "find",
@@ -33,9 +33,9 @@
   "author": "Melkis Hengue <henguemelkispro@yahoo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flexdinesh/npm-module-boilerplate/issues"
+    "url": "https://github.com/melkishengue/findkeys/issues"
   },
-  "homepage": "https://github.com/flexdinesh/npm-module-boilerplate#readme",
+  "homepage": "https://github.com/melkishengue/findkeys",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^10.0.1",
