@@ -41,11 +41,11 @@ yarn add findkeys
         }
     }
 
-    const { findkeys } = 'findkeys' 
-    // const findkeys = require('findkeys')
+    const { findkeys } = require('findkeys')
+    // import { findkeys } from 'findkeys'
 
     let res = findkeys(obj, ['firstname', 'country'])
-    // [root.user.country, root.user.children.0.firstname, root.user.children.1.firstname]
+    // [root.user.country, root.user.datas.firstname, root.user.children.0.firstname, root.user.children.1.firstname]
     console.log(res)
 ```
 
