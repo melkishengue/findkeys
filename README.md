@@ -1,6 +1,6 @@
 # findkeys
 
-[![Build Status](https://travis-ci.org/melkishengue/npm-module-boilerplate.svg?branch=master)](https://travis-ci.org/melkishengue/findkeys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Build Status](https://travis-ci.org/melkishengue/findkeys.svg?branch=master)](https://travis-ci.org/melkishengue/findkeys) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 **A simple and blazing fast object keys locator** ✨
 
